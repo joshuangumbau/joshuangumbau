@@ -26,3 +26,5 @@ Github Twitter LinkedIn Blog Instagram
 
 🤝 Support Me:
 Buy Me A Coffee
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuangumbau&theme=radical)
