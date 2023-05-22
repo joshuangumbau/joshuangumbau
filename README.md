@@ -44,5 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuangumbau&show_icons=true&locale=en&layout=compact" alt="joshuangumbau" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuangumbau&show_icons=true&locale=en" alt="joshuangumbau" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuangumbau&" alt="joshuangumbau" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshuangumbau)](https://github.com/ryo-ma/github-profile-trophy)
