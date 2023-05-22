@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuangumbau&label=Profile%20views&color=0e75b6&style=flat" alt="joshuangumbau" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuangumbau" alt="joshuangumbau" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/joshuangumbau" target="blank"><img src="https://img.shields.io/twitter/follow/joshuangumbau?logo=twitter&style=for-the-badge" alt="joshuangumbau" /></a> </p>
 
 - 🔭 I’m currently working on **Django-ledger**
@@ -13,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 🤝 I’m looking for help with **Porfolio tracker**
+- 🤝 I’m looking for help with **Porfolio tracker/restapi**
 
 - 💬 Ask me about **React, vuejs ,django ,restful api**
 
