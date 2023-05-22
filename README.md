@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuangumbau&label=Profile%20views&color=0e75b6&style=flat" alt="joshuangumbau" /> </p>
 
 
-
 <p align="left"> <a href="https://twitter.com/joshiengumbau" target="blank"><img src="https://img.shields.io/twitter/follow/joshiengumbau?logo=twitter&style=for-the-badge" alt="joshiengumbau" /></a> </p>
 
 - 🔭 I’m currently working on **Python project**
